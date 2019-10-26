@@ -1,4 +1,8 @@
 {
   "name": "react-native-template-neos-eslint",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sutil/react-native-template-neos-eslint"
+  }
 }
