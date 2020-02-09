@@ -6,9 +6,5 @@
     "url": "https://github.com/Sutil/react-native-template-neos-eslint"
   },
   "license": "MIT",
-  "author": "Eduardo Sutil <sutil@neostech.com>",
-  "files": [
-    "template",
-    "template.config.js"
-  ]
+  "author": "Eduardo Sutil <sutil@neostech.com>"
 }
